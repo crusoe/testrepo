@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("merge3");
 		System.out.println("hello word4");
 		System.out.println("hello word7");
+		System.out.println("hello word5");
 	}
 
 }

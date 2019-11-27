@@ -6,7 +6,7 @@ public class Main {
 		System.out.println("hello world3");//test3
 		System.out.println("hello");
 		System.out.println("merge3");
-		System.out.println("hello word4");
+		System.out.println("hello word5");
 	}
 
 }
